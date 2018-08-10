@@ -37,12 +37,12 @@ tags:								#标签
 
 #### 第二步
 在Host文件内，尾部添加以下内容，随后保存。
-"104.16.59.5 discordapp.com
+```104.16.59.5 discordapp.com
 104.16.59.5 dl.discordapp.net
 104.16.59.5 gateway.discord.gg
 104.16.59.5 status.discordapp.com
 104.16.59.5 cdn.discordapp.com
-104.16.59.5 media.discordapp.net"
+104.16.59.5 media.discordapp.net```
 
 #### 第三步
 重新打开Discord登陆。
