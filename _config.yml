@@ -67,7 +67,7 @@ gitalk:
   repo: feng0139.github.io    #仓库名称
   owner: Feng0139    #github用户名
   admin: Feng0139
-  ID: md5(location.pathname)
+  ID: md5(window.location.pathname)
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
