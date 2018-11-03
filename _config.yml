@@ -11,7 +11,7 @@ github_repo: "https://github.com/feng0139/feng0139.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "没有意义，那就去创造一个。"
+sidebar-about-description: "" #个人座右铭
 sidebar-avatar: /img/feng0139.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
