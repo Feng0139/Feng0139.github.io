@@ -1,10 +1,10 @@
 # Site settings
 title: Feng Blog
-SEOTitle: 冯嘉健的博客 | Feng Blog
+SEOTitle: Feng Blog
 header-img: img/post-bg-desk.jpg
 email: feng0139@hotmail.com
 description: "没有意义，那就去创造一个。"
-keyword: "Feng, FengBlog, 冯嘉健的博客, fengjiajian, 冯嘉健"
+keyword: "Feng, FengBlog, Feng0139"
 url: "http://fengjiajian.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/feng0139/feng0139.github.io.git" # you code repository
@@ -101,7 +101,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Cyyou！官方聊天室",
+        title: "you! 聊天室",
         href: "https://discord.gg/SgEAh66"
     }
 ]
