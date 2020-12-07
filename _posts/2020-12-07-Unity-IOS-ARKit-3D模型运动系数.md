@@ -14,6 +14,7 @@ tags:								#标签
 
 # BlendShapeLocation
 ## 左眼
+
 | 系数 | 说明 | 示例图 |
 | :----- | :-----: | :-----: |
 | eyeBlinkLeft      | 描述左眼上眼睑闭合的系数 | <img src="./img/2020-12-07/eyeBlinkLeft.png" width = 300px> |
@@ -36,6 +37,7 @@ tags:								#标签
 | eyeWideRight      | 描述右眼周围眼睑变宽的系数        | <img src="./img/2020-12-07/eyeWideRight.png" width = 300px> |
 
 ## 嘴唇与上下颚
+
 | 系数 | 说明 | 示例图 |
 | :----- | :-----: | :-----: |
 | jawForward            | 描述下颌向前运动的系数 | <img src="./img/2020-12-07/jawForward.png" width = 300px> |
@@ -67,6 +69,7 @@ tags:								#标签
 | mouthUpperUpRight     | 描述右侧上唇向上运动的系数 | <img src="./img/2020-12-07/mouthUpperUpRight.png" width = 300px> |
 
 ## 眉毛、脸颊、鼻子
+
 | 系数 | 说明 | 示例图 |
 | :----- | :-----: | :-----: |
 | browDownLeft | 描述左眉外部向下运动的系数 | <img src="./img/2020-12-07/browDownLeft.png" width = 300px> |
@@ -81,6 +84,7 @@ tags:								#标签
 | noseSneerRight | 该系数描述了鼻孔周围鼻子右侧的隆起 | <img src="./img/2020-12-07/noseSneerRight.png" width = 300px> |
 
 ## 舌
+
 | 系数 | 说明 | 示例图 |
-| :----- | :----- | :----- |
+| :----- | :-----: | :-----: |
 | tongueOut | 描述舌头伸展的系数 | NULL |
