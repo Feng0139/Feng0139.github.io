@@ -26,6 +26,7 @@ tags:								#标签
 | eyeWideLeft       | 描述左眼周围眼睑变宽的系数 | <img src="./img/2020-12-07/eyeWideLeft.png" width = 300px> |
 
 ## 右眼
+
 | 系数 | 说明 | 示例图 |
 | :----- | :-----: | :-----: |
 | eyeBlinkRight     | 描述右眼上眼睑闭合的系数          | <img src="./img/2020-12-07/eyeBlinkRight.png" width = 300px> |
