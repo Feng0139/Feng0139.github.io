@@ -101,7 +101,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "you! 聊天室",
+        title: "5O%",
         href: "https://discord.gg/SgEAh66"
     }
 ]
